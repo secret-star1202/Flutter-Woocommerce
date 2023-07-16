@@ -50,7 +50,7 @@ Full documentation this available [here](https://woosignal.com/docs/app/ios/labe
 - Orders show as normal in WooCommerce
 
 ## Security Vulnerabilities
-If you discover a security vulnerability within WooSignal, please send an e-mail rd3328425@gmail.com
+If you discover a security vulnerability within WooSignal, shoot me a quick message
 
 ## Uploading to the app stores
 
